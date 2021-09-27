@@ -1,5 +1,4 @@
 # restaurant-complex-management-system
-My diploma project
 The project is aimed at implementing a restaurant complex management system. The main advantage of this system is its centralization. The main founder of a restaurant chain can observe and control the processes taking place in all restaurants at the same time.
 Implemented a system for adding a restaurant, its interactive map, changing, deleting.
 Implemented a system for adding employees, products, booking management.
